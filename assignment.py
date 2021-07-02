@@ -10,6 +10,7 @@ Original file is located at
 #importing the required libraries
 import numpy as np
 import pandas as pd
+!pip install matplotlib
 import matplotlib.pyplot as plt 
 
 import seaborn as sns
